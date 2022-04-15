@@ -24,7 +24,8 @@ import {
 
 let isMobile;
 enquireScreen((b) => {
-  isMobile = b;
+  //isMobile = b;
+  isMobile = false;
 });
 
 const { location = {} } = typeof window !== 'undefined' ? window : {};
