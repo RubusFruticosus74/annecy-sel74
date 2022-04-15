@@ -5,7 +5,7 @@ export const Nav30DataSource = {
   logo: {
     className: 'header3-logo jzjgnya1gmn-editor_css',
     children:
-      '/images/logo1.png',
+      '/images/Logo1.png',
     //'https://cdn.jsdelivr.net/gh/LaboduNET/SEL74/Annecy/solidaire4.jpg',
   },
   Menu: {
@@ -1190,7 +1190,7 @@ export const Footer10DataSource = {
           className: 'logo jzl0qcpyjra-editor_css',
           children:
             //'https://gw.alipayobjects.com/mdn/rms_ae7ad9/afts/img/A*GzZ-QqkpH4AAAAAAAAAAAABkARQnAQ',
-            '/images/logo1.png',
+            '/images/Logo1.png',
         },
         childWrapper: {
           className: 'slogan',
